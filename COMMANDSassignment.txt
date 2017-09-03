@@ -1,0 +1,30 @@
+1. pwd - Writes the full pathname of the current working directory to the standard output
+
+2. vi - Is used to say which file name is to be edited
+
+3. Touch - The touch command is the easiest way to create new, empty files.
+
+4. mkdir - Create new directories.
+
+5. rm - Removes Files or directory.
+
+6. Is - lists directory contents.
+
+7. echo - echo is a fundamental command found,used in scripts, batch files, and as part of individual commands; anywhere you may need to insert text.
+
+8. cat - shortform of concatenate,cat command allows us to create single or multiple files, view contain of file, concatenate files and redirect output in terminal or files.
+
+9. who - Shows who is logged on the system.
+
+10. cd - Change directory.
+
+11. date - used to set the system date and time.
+
+12. cal - to display calender.
+
+13. mv - used to move or rename files.
+
+14. cp - to coopy files and directories.
+
+15. which - is used to locate executables in the system. It allows user to pass several command names as arguments to get their paths in the system.
+ 
